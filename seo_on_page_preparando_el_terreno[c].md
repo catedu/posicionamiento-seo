@@ -16,11 +16,11 @@ Elige siempre que puedas un dominio .com o .es
 
 Si contratas el hosting con Raiola te regalan un dominio gratis. Con el Hosting inicio SSD Wordpress tienes más que suficiente para comenzar.
 
-![](img/image40.png)
+![](/img/image40.png)
 
 Otro buen hosting que recomiendo es el de ProfesionalHosting, que también regalan el dominio.
 
-![](img/image39.png)
+![](/img/image39.png)
 
 ### Enlaces de afiliado {#enlaces-de-afiliado}
 
@@ -60,11 +60,11 @@ Se trata de un plugin muy completo que te va a ayudar con el SEO de tu blog.
 
 Entras en el escritorio wordpress de tu blog y en la columna de la izquierda buscas “plugins”, colocas el ratón sobre él y se despliega una ventana “añadir nuevo”
 
-![](img/image42.png)
+![](/img/image42.png)
 
 Una vez que das a añadir nuevo, se abre una ventana con un buscador. Escribes en el buscador “yoast seo” y al botón “instalar ahora”
 
-![](img/image41.png)
+![](/img/image41.png)
 
 Una vez que le das a instalar, aparecerá la palabra “activo”.
 
@@ -76,7 +76,7 @@ Os deja enlace a un vídeo de Alex Serrano [https://www.youtube.com/watch?v=yYaL
 
 Una vez que lo tengas instalado, te van a aparecer las siguientes opciones:
 
-![](img/image45.png)
+![](/img/image45.png)
 
 En el vídeo de Alex Serrano explica paso a paso cómo configurarlo según las necesidades de tu blog.
 
@@ -110,7 +110,7 @@ Algunas herramientas gratuitas para revisar los errores 404:
 *   extensión para instalar broken link checker [https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch&sa=D&ust=1571400723306000)
 *   extensión para instalar: check my links [https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf&sa=D&ust=1571400723306000) (mi favorita)
 
-![](img/image43.png)
+![](/img/image43.png)
 
 *   Tarea: instalar la extensión que prefiráis o utilizar la herramienta y analizar varios artículos de vuestro blog para comprobar que no hay errores 404\.
 
@@ -120,15 +120,15 @@ Cada artículo debe tener obligatoriamente un H1 y sería recomendable dividir t
 
 Con la extensión gratuita webdeveloper (chrome, firefox, etc) [https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=es-419](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl%3Des-419&sa=D&ust=1571400723308000) , una vez que la tienes instalada, abres cualquier artículo, clicas sobre la rueda dentada y se abre una ventana, en la tercera columna eliges “view document online”
 
-![](img/image44.png)
+![](/img/image44.png)
 
  y ves la arquitectura de ese artículo:  
 
-![](img/image46.png)
+![](/img/image46.png)
 
 Cuando escribes un artículo en wordpress, la primera caja de texto es para el H1 y en el desplegable de “párrafo” se puede seleccionar “título 2”, “título 3” y suscesivos.
 
-![](img/image47.png)
+![](/img/image47.png)
 
 *   Tarea: instalar la extensión webdeveloper, elegir un artículo y clicando sobre la rueda dentada -&gt; “view document online” comprobar que tiene H1 y una arquitectura adecuada de encabezados.
 
@@ -148,7 +148,7 @@ Pasos para optimizar una imagen:
 
 1.  Se indica título y texto alternativo, utilizando palabra clave
 
-![](img/image48.png)
+![](/img/image48.png)
 
 Ojo, no se debe repetir título ni alt, por lo que si tienes varias imágenes en tu post de “arquitectura renacentista”, puedes añadir por ejemplo “arquitectura renacentista estilo plateresco”, “arquitectura renacentista salamanca”, etc.
 
@@ -156,7 +156,7 @@ En el caso de que ya tengas muchas imágenes subidas a tu blog, para reducir el 
 
 Podrás optimizar por lotes todas las imágenes que ya están subidas.
 
-![](img/image49.png)
+![](/img/image49.png)
 
 *   Tarea: instala el plugin y reduce el peso de las imágenes o reduce su peso si es la primera vez que las subes. Revisa y rellena los campos de título y texto alternativo.
 

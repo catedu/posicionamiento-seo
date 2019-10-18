@@ -4,7 +4,7 @@ Os voy a enseñar cómo se optimiza url y snippets a partir de un artículo que 
 
 La palabra clave escogida para este artículo fue: redes sociales aula digital
 
-![](img/image14.png)
+![](/img/image14.png)
 
 Si analizamos el snippet marcado en rojo podéis ver tres partes:
 
@@ -16,7 +16,7 @@ Vamos a ver cómo podemos optimizar estas tres partes gracias a SEO Yoast.
 
 *   Url del contenido: debe ser corta, amigable, descriptiva e incluir la palabra clave
 
-![](img/image15.png)
+![](/img/image15.png)
 
 En la primera caja de texto se escribe el título, que es el H1\. Debe incluir la palabra clave y cuánto más a la izquierda mejor - sin sonar a robot-
 
@@ -46,7 +46,7 @@ Más adelante, te indico un plugin para hacerlo
 
 *   title y metadescription: deben ser atractivos, incentivar al click para destacar en el listado de resultados y aumentar el CTR. Además ambos deben incluir la palabra clave.
 
-![](img/image16.png)
+![](/img/image16.png)
 
 Al final de cada artículo vas a encontrar el módulo de seo yoast. Clicas en el botón “edit snippet” y puedes crear tu title y metadescription.
 
@@ -58,6 +58,6 @@ Debes desplegar el módulo “frase clave objetivo”  y añadir en ese recuadro
 
 SEO Yoast funciona como un semáforo, siendo verde la mejor puntuación y roja, la peor. No te obsesiones con el semáforo. Si aparece en rojo seguramente sí se le pueda dar una vuelta al artículo y mejorarlo; si aparece el naranja no te compliques demasiado. Si es verde, ¡felicidades!.
 
-![](img/image17.png)
+![](/img/image17.png)
 
 Ya para terminar con SEO Yoast, el último módulo que tiene es “contenido esencial”, márcalo solo con tus artículos pilares.

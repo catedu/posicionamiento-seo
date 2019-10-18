@@ -38,7 +38,7 @@ Si quieres ampliar información sobre la intención de búsqueda, te dejo enlace
 
 *   volumen de búsqueda: el interés de una palabra clave depende, entre otros factores, de su volumen de búsqueda y competencia. Con volumen de búsqueda nos referimos a la cantidad de usuarios que utilizan esa palabra clave cada mes para realizar una búsqueda en google.
 
-![](img/image38.png)
+![](/img/image38.png)
 
 Por ejemplo, “dinámicas de grupo” se busca 40.500 veces al mes (no solo España, sino todo el mercado español)
 
@@ -63,7 +63,7 @@ Por ejemplo, “dinámicas de grupo” se busca 40.500 veces al mes (no solo Esp
 *   con esta herramienta gratuita online [https://seomofo.com/snippet-optimizer.html](https://www.google.com/url?q=https://seomofo.com/snippet-optimizer.html&sa=D&ust=1571400723290000)  puedes ver cómo queda el snippet antes de publicar. De esta manera podrás optimizarlo evitar que el título aparezca cortado o la descripción con puntos suspensivos.
 *   Si te estás preguntando donde puedes escribir o modificar esta información, tranquil@, en el curso te enseño cómo.
 
-![](img/image37.png)
+![](/img/image37.png)
 
 *   CTR (click through rate): es decir, el número de clics que recibe un snippet divido entre su número de impresiones.
 
