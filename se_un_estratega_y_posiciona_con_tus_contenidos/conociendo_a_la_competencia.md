@@ -4,11 +4,11 @@ Ahora vamos a mirar con mayor detenimiento la competencia que existe en las serp
 
 Para conocer la autoridad de tus competidores, te voy a pedir que añadas la extensión de Mozbar  [https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=es](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl%3Des&sa=D&ust=1571400723341000)
 
-![](images/image12.png)
+![](img/image12.png)
 
 Una vez que la tengas instalada, realiza una búsqueda de tu primera palabra clave. Vamos a imaginar que quieres escribir un artículo sobre “juegos matemáticos secundaria resueltos”, con un volumen de búsqueda de 590/mes.
 
-![](images/image13.png)
+![](img/image13.png)
 
 Con la extensión de Mozbar funcionando, vais a ver que debajo de cada resultado aparece una barra gris oscura con los siguientes datos:
 

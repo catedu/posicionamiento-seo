@@ -2,25 +2,25 @@
 
 *   Keyword everywhere: es una extensión gratuita para chrome, firefox, opera… Tan solo tienes que buscarla en google, “keywords everywhere chrome”, por ejemplo, instalarla y cada vez que realices una búsqueda te dará el volumen de búsqueda en un recuadro destacado que aparece a la derecha.
 
-![](images/image51.png)
+![](img/image51.png)
 
-![](images/image52.png)
+![](img/image52.png)
 
 *   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   Google suggest: cuando escribes una palabra en el buscador, se despliega una ventana mostrándote sugerencias relacionadas. Si además tienes instalada la extensión keywords everywhere te dará el volumen de búsqueda en esa misma ventana.
 
-![](images/image53.png)
+![](img/image53.png)
 
 Para conseguir mayor número de sugerencias existe el truco de poner un prefijo o sufijo a la búsqueda con todas las letras del abecedario o utilizar la herramienta [infinitesuggest](https://www.google.com/url?q=https://www.infinitesuggest.com/&sa=D&ust=1571400723325000) que se basa en el mismo procedimiento.
 
-![](images/image24.png)
+![](img/image24.png)
 
 *   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   Búsqueda relacionadas: si hacemos scroll hasta el final de la página, google nos sigue dando sugerencias. Muestra palabras relacionadas con tu búsqueda, que son las más buscadas de su base de datos
 
-![](images/image25.png)
+![](img/image25.png)
 
 *   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
@@ -28,7 +28,7 @@ Para conseguir mayor número de sugerencias existe el truco de poner un prefijo 
 
 Es una herramienta muy completa , gratuita que te da una visión general de tu blog, ideas de palabras clave, analiza el tráfico que te llega en la actualidad, volumen de búsqueda, tendencia de búsqueda…
 
-![](images/image26.png)
+![](img/image26.png)
 
 *   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
@@ -40,7 +40,7 @@ Puedes elegir el idioma, escribir el concepto o palabra clave y dar a buscar. Te
 
 En esta herramienta no se muestran correctamente los volúmenes de búsqueda, pero sirve para guiarnos a la hora de estructurar la información y dar respuestas.
 
-![](images/image27.png)
+![](img/image27.png)
 
 *   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
@@ -56,13 +56,13 @@ Para ver el volumen de búsqueda, puedes:
 
         llevarte directamente las palabras sugeridas al keyword planner
 
-![](images/image28.png)
+![](img/image28.png)
 
 *   keywordtool.io: [https://keywordtool.io](https://www.google.com/url?q=https://keywordtool.io/&sa=D&ust=1571400723331000)
 
 Esta herramienta te da el listado de palabras clave si bien para ver el volumen de búsqueda, competencia y tendencia hay que pagar. Pero existe un truco que te voy a desvelar en las próximas líneas.
 
-![](images/image29.png)
+![](img/image29.png)
 
 *   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
@@ -74,7 +74,7 @@ Para poder acceder al planificador de palabras clave es necesario que te des de 
 
 Una vez que tengas creada tu cuenta, en la parte superior busca “herramientas y ajustes” -&gt; planificación -&gt; planificador de palabras clave
 
-![](images/image30.png)
+![](img/image30.png)
 
 [^d]
 
@@ -82,17 +82,17 @@ El planificador te permite o buscar palabras clave nuevas, a raíz de alguna ide
 
 Elegimos esta segunda opción.
 
-![](images/image31.png)
+![](img/image31.png)
 
 Si no te has saltado ninguna de las tareas mencionadas líneas más arriba, tendrás un documento con una columna “palabra clave” con varias palabras ya apuntadas.
 
 Es hora de copiar esta columna (Ctrl + C) y copiarlas (Ctrl + V) en el planificador de palabras clave. Si lo prefieres también puedes subir el archivo
 
-![](images/image32.png)
+![](img/image32.png)
 
 Como además tenemos la extensión de keywords everywhere instalada, nos dará datos más completos que si no la tuviéramos.
 
-![](images/image33.png)
+![](img/image33.png)
 
 El CPC es el coste por clic. No hay que olvidar que estamos en la plataforma de anuncios de google y lo que nos indica esta columna es lo que cuesta cada clic de ese anuncio.
 
@@ -106,7 +106,7 @@ Podéis seleccionar todas las palabras clave o aquellas que son de vuestro inter
 
 *   en el ejemplo me quedaría con “renacimiento en España”
 
-![](images/image11.png)
+![](img/image11.png)
 
 Ya tenemos nuestro documento totalmente cumplimentado y sabemos a qué palabra clave vamos a orientar nuestro próximo artículo.
 

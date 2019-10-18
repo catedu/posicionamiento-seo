@@ -14,7 +14,7 @@ Existen tres tipos de palabras clave:
 
 *   mascarilla de belleza para pelo loreal
 
-![](images/image50.png)
+![](img/image50.png)
 
 La estrategia en el blog tiene que estar siempre enfocada a palabras clave LSI y sobre todo a long tail. Descartamos generales por su alta competencia.
 

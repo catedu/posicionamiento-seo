@@ -25,15 +25,15 @@ Conoce las búsquedas más populares :
 
 *   Youtube suggest:  escribe la palabra clave en el buscador de youtube y mira qué resultados se despliegan
 
-![](images/image8.png)
+![](img/image8.png)
 
 TRUCO:  para ampliar el listado de búsquedas relacionadas, ve probando con la palabra clave y las letras del abecedario, ya verás como la lista se va ampliando.
 
-![](images/image9.png)
+![](img/image9.png)
 
 *   Keywordtool.io: tiene pestaña para búsqueda de palabras clave en youtube
 
-![](images/image10.png)
+![](img/image10.png)
 
 Para conocer el volumen de búsqueda tienes que aplicar el mismo método que te he enseñado más arriba para conocer el volumen de las keywords para google. El Planificador de palabras clave va a ser un gran aliado.
 
@@ -75,7 +75,7 @@ Palabras a utilizar en la descripción de manera natural:  utiliza palabras prin
 
 Ejemplo de descripción:
 
-![](images/image21.png)
+![](img/image21.png)
 
 ### Etiquetas {#etiquetas}
 
@@ -97,7 +97,7 @@ Tutorial de VIDIQ:  [https://youtu.be/F3kbcEo20oI](https://www.google.com/url?q=
 
 Algunos datos que vas a poder ver de cualquier vídeo y no solo de los tuyos con VidIQ
 
-![](images/image22.png)
+![](img/image22.png)
 
 Si te gustan las herramientas, te dejo otra que también ofrece muchas funcionalidades para youtube. En este caso, es para Chrome:  [https://www.tubebuddy.com/](https://www.google.com/url?q=https://www.tubebuddy.com/&sa=D&ust=1571400723391000)
 
@@ -113,7 +113,7 @@ A grandes rasgos, las miniaturas que mejor funcionan:
 *   los planos cercanos de rostros captan la atención
 *   sigue siempre una identidad visual distintiva
 
-![](images/image23.png)
+![](img/image23.png)
 
 ### Duración {#duraci-n}
 
