@@ -54,7 +54,8 @@ En este documento vais a crear una pestaña por cada mes y en cada mes, las sigu
 
 Si lo preferís, podéis utilizar mi plantilla.
 
-*   Tarea: crea tu propio documento y personalízalo o toma como base mi plantilla
+>**tip**
+>Tarea: crea tu propio documento y personalízalo o toma como base mi plantilla
 
 Este calendario es sobre todo para llevar mayor control de tus artículos pilares y de los post con los que quieres difundir tu conocimiento y prácticas más allá de las cuatro paredes.
 

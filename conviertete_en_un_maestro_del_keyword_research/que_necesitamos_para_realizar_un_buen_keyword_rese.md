@@ -20,7 +20,8 @@ Aprovechar esta oportunidad es justamente lo que hace Luis. Tiene claro el conce
 
 Como veremos más adelante, a la hora de generar contenido no hay lugar a la improvisación. Se trabaja con un calendario editorial y por lo tanto se parte de un listado de conceptos generalizados, sobre los que se realiza el estudio de palabras clave.
 
-*   Tarea: crea un listado de diferentes temas que te gustaría abordar en tus próximos artículos. - mínimo 10- .
+>**tip**
+>Tarea: crea un listado de diferentes temas que te gustaría abordar en tus próximos artículos. - mínimo 10- .
 
 No te saltes ninguna tarea y así al finalizar el curso tendrás tu calendario editorial para los próximos tres meses.
 
@@ -33,7 +34,8 @@ Con el fin de ir volcando todos los datos que nos van a dar las herramientas, ne
 *   competencia
 *   tendencia
 
-*   Tarea: crea un documento y una pestaña por cada tema que quieres abordar en tus próximos posts con sus correspondientes columnas
+>**tip**
+>Tarea: crea un documento y una pestaña por cada tema que quieres abordar en tus próximos posts con sus correspondientes columnas
 
 En cada pestaña del documento general ve apuntando todos los datos que obtienes de las diferentes búsquedas con herramientas.
 

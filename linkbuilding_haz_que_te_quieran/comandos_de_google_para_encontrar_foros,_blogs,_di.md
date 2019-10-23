@@ -40,7 +40,8 @@ Y hasta aquí el listado de comandos de google que te van a permitir no solo a b
 
 Acostúmbrate a utilizar los comandos y los resultados te llevarán a páginas más cualificadas para resolver tus dudas.
 
-*   Tarea: familiarizate con el uso de los comandos de google. Realiza diferentes búsquedas con tus palabras clave y detecta lugares donde puedes dejar un comentario con enlace a tu web o artículo y/o contactar para escribir un artículo como autor invitado.
+>**tip**
+>Tarea: familiarizate con el uso de los comandos de google. Realiza diferentes búsquedas con tus palabras clave y detecta lugares donde puedes dejar un comentario con enlace a tu web o artículo y/o contactar para escribir un artículo como autor invitado.
 
 NOTA: Para dejar un enlace a tu artículo desde un comentario que hagas en un blog o foro, ten en cuenta la naturalidad del anchor text y utiliza la siguiente estructura html: &lt;a href=”url de enlace”&gt; anchor text &lt;/a&gt;
 

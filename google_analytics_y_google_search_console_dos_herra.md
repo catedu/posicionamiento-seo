@@ -26,4 +26,5 @@ Guía de Search Console: google ha sacado recientemente una nueva versión de es
 
 Al menos con estas guías sabrás cómo vincular tu blog, comenzar a recoger datos y saber dónde fijar tu atención para conocer los resultados que te interesan.
 
-*   Tarea: vincula tu blog con google analytics y google search console
+>**tip**
+>Tarea: vincula tu blog con google analytics y google search console

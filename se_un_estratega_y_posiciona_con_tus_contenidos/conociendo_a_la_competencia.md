@@ -29,6 +29,7 @@ En el ejemplo propuesto hay hasta 4 páginas blog/webs con un DA de menos de 45 
 *   Hay palabras relacionadas como “acertijos matemáticos resueltos” con 2900 búsquedas/mes.
 *   Si creas un canal en pinterest y subes tu contenido, es muy probable que te posiciones.
 
-*   Tarea: analiza tu competencia con cada una de las palabras clave de tu documento. Si la competencia es muy alta, sigue buscando entre las palabras relacionadas y sugeridas hasta encontrar esa longtail con la que puedes encontrar tu hueco en el top10\.
+>**tip**
+>Tarea: analiza tu competencia con cada una de las palabras clave de tu documento. Si la competencia es muy alta, sigue buscando entre las palabras relacionadas y sugeridas hasta encontrar esa longtail con la que puedes encontrar tu hueco en el top10\.
 
 *   Si el nicho te da para atacar una LSI porque apenas hay competencia, o la mayoría son pdf’s, vídeos, etc. ¡A por ella!

@@ -40,9 +40,10 @@ Hay muchísimas plantillas gratuitas orientadas a revistas, blogs. Una de las m�
 
 El hosting que contrates, tanto Raiola como ProfesionalHosting, te ayudarán a instalar wordpress y la plantilla para que tú no tengas que ocuparte de esta parte más técnica. En el caso de que ya tengas blog con contenidos te ayudarán a migrarlo si te has decidido por dar una limpieza de cara a tu blog.
 
-*   Tarea: si no tienes blog, piensa sobre el nombre del dominio y compara hostings. Elige el que más te llame y a por ello.
+*   >**tip**
+>Tarea: si no tienes blog, piensa sobre el nombre del dominio y compara hostings. Elige el que más te llame y a por ello.
 
-*   Si ya tienes blog, reflexiona si quieres meterte en un cambio o si te quedas como estás, optimizándolo.
+>Si ya tienes blog, reflexiona si quieres meterte en un cambio o si te quedas como estás, optimizándolo.
 
 ### Plugin SEO Yoast {#plugin-seo-yoast}
 
@@ -90,7 +91,8 @@ Con SEO Yoast bien configurado tendrás:
 
 Sobre todo, cómo vamos a ver en el punto de “sé un estratega y posiciona con tus contenidoY vuelvo al SEO, que si no me desvío del camino…s” te va a guiar en la redacción y optimización de tu artículo.
 
-*   Tarea: instala el plugin SEO Yoast y sigue paso a paso para su configuración.
+*  >**tip**
+> Tarea: instala el plugin SEO Yoast y sigue paso a paso para su configuración.
 
 ¡Ojo! esto para blogs que parten de cero. Si tu blog ya tiene recorrido, habría que hacer una auditoría breve para que no aparecieran errores 404\.
 
@@ -112,7 +114,8 @@ Algunas herramientas gratuitas para revisar los errores 404:
 
 ![](/img/image43.png)
 
-*   Tarea: instalar la extensión que prefiráis o utilizar la herramienta y analizar varios artículos de vuestro blog para comprobar que no hay errores 404\.
+*   >**tip**
+>Tarea: instalar la extensión que prefiráis o utilizar la herramienta y analizar varios artículos de vuestro blog para comprobar que no hay errores 404\.
 
 ### Encabezados {#encabezados}
 
@@ -130,7 +133,8 @@ Cuando escribes un artículo en wordpress, la primera caja de texto es para el H
 
 ![](/img/image47.png)
 
-*   Tarea: instalar la extensión webdeveloper, elegir un artículo y clicando sobre la rueda dentada -&gt; “view document online” comprobar que tiene H1 y una arquitectura adecuada de encabezados.
+*   >**tip**
+>Tarea: instalar la extensión webdeveloper, elegir un artículo y clicando sobre la rueda dentada -&gt; “view document online” comprobar que tiene H1 y una arquitectura adecuada de encabezados.
 
 ### Optimización de las imágenes {#optimizaci-n-de-las-im-genes}
 
@@ -158,7 +162,8 @@ Podrás optimizar por lotes todas las imágenes que ya están subidas.
 
 ![](/img/image49.png)
 
-*   Tarea: instala el plugin y reduce el peso de las imágenes o reduce su peso si es la primera vez que las subes. Revisa y rellena los campos de título y texto alternativo.
+*   >**tip**
+>Tarea: instala el plugin y reduce el peso de las imágenes o reduce su peso si es la primera vez que las subes. Revisa y rellena los campos de título y texto alternativo.
 
 ### Titles y metadescriptions (títulos y descripciones) {#titles-y-metadescriptions-t-tulos-y-descripciones}
 
@@ -174,7 +179,8 @@ Existen varias herramientas que nos indican la velocidad de nuestro blog. Las tr
 
 En numerosas ocasiones solo con mejorar la optimización de las imágenes, la velocidad mejora muchísimo. En otras cosas será necesario tocar aspectos más técnicos.
 
-*   Tarea: revisa tu blog con estas tres herramientas y comprueba si optimizando las imágenes puedes mejorar la velocidad.
+*   >**tip**
+>Tarea: revisa tu blog con estas tres herramientas y comprueba si optimizando las imágenes puedes mejorar la velocidad.
 
 *   en ocasiones no solo es el peso, sino también la escala de la fotografía.
 

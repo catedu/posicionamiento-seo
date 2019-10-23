@@ -1,0 +1,39 @@
+{
+    "plugins": [
+        "youtube",
+        "accordion",
+        "image-captions",
+        "styled-blockquotes",
+        "localized-footer",
+        "edit-link",
+        "githubcontributors"
+    ],
+    "language": "es",
+    "variables": {
+        "title": "Posicionamiento SEO",
+        "author": "Rocío García Algora",
+        "collaborators": [
+            {
+                "name": "_________",
+                "edited": "_____________"
+            }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        },
+        "edit-link": {
+            "base": "https://github.com/catedu/posicionamiento-seo/edit/master/",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "posicionamiento-seo"
+        }
+    }
+}

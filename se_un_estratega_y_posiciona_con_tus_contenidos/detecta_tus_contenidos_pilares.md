@@ -18,4 +18,5 @@ Tus artículos pilares guardarán relación con esta temática concreta. Recuerd
 
 El resto de artículos también deben estar trabajados y enfocados a una palabra clave, pero no requieren de tanta inversión de tiempo.
 
-*   Tarea: reflexiona sobre cuáles serán tus artículos pilares
+>**tip**
+>Tarea: reflexiona sobre cuáles serán tus artículos pilares

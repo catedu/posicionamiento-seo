@@ -44,4 +44,5 @@ Con todo el tiempo que has invertido en el análisis de palabras clave, investig
 
 Compártelo entre aquellas personas que puedan estar interesadas, con tus alumnos, en tus redes sociales, etc. Es importante que consigas feedback, visitas en tu artículo. Las señales sociales son importantes de cara al posicionamiento.
 
-*   Tarea: siéntete orgullos@ del artículo que has escrito y, ¡promociónalo!
+>**tip**
+>Tarea: siéntete orgullos@ del artículo que has escrito y, ¡promociónalo!

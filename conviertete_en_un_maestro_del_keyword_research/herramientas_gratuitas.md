@@ -6,7 +6,9 @@
 
 ![](/img/image52.png)
 
-*   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
+>**tip** 
+
+>Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   Google suggest: cuando escribes una palabra en el buscador, se despliega una ventana mostrándote sugerencias relacionadas. Si además tienes instalada la extensión keywords everywhere te dará el volumen de búsqueda en esa misma ventana.
 
@@ -16,13 +18,15 @@ Para conseguir mayor número de sugerencias existe el truco de poner un prefijo 
 
 ![](/img/image24.png)
 
-*   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
+>**tip**
+>Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   Búsqueda relacionadas: si hacemos scroll hasta el final de la página, google nos sigue dando sugerencias. Muestra palabras relacionadas con tu búsqueda, que son las más buscadas de su base de datos
 
 ![](/img/image25.png)
 
-*   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
+>**tip**
+>Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   [Ubbersuggest:](https://www.google.com/url?q=https://neilpatel.com/es/ubersuggest/&sa=D&ust=1571400723326000)  [https://neilpatel.com/es/ubersuggest/](https://www.google.com/url?q=https://neilpatel.com/es/ubersuggest/&sa=D&ust=1571400723327000)
 
@@ -30,7 +34,8 @@ Es una herramienta muy completa , gratuita que te da una visión general de tu b
 
 ![](/img/image26.png)
 
-*   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
+>**tip**
+>Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   [Answerthepublic:](https://www.google.com/url?q=https://answerthepublic.com/&sa=D&ust=1571400723328000)  [https://answerthepublic.com/](https://www.google.com/url?q=https://answerthepublic.com/&sa=D&ust=1571400723328000)
 
@@ -42,7 +47,8 @@ En esta herramienta no se muestran correctamente los volúmenes de búsqueda, pe
 
 ![](/img/image27.png)
 
-*   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
+>**tip**
+>Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   Kiwosan:  [https://kiwosan.com/contratar/bienvenido/](https://www.google.com/url?q=https://kiwosan.com/contratar/bienvenido/&sa=D&ust=1571400723329000)
 
@@ -64,7 +70,8 @@ Esta herramienta te da el listado de palabras clave si bien para ver el volumen 
 
 ![](/img/image29.png)
 
-*   Tarea: añade todos los datos que obtienes en la pestaña de tu documento
+>**tip**
+>Tarea: añade todos los datos que obtienes en la pestaña de tu documento
 
 *   Planificador de palabras clave: google adwords
 
