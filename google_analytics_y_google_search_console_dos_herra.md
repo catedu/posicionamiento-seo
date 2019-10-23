@@ -16,13 +16,13 @@ Es necesario que te des de alta en ambas plataformas y las vincules con tu blog.
 
 La analítica se escapa del temario de este curso de SEO para docentes, por lo que te dejo enlaces a guías por si quieres indagar por tu cuenta.
 
-*   Guía de google analytics para principiantes: [https://www.javierbalcazar.com/tutorial-google-analytics-guia-pincipiantes/](https://www.google.com/url?q=https://www.javierbalcazar.com/tutorial-google-analytics-guia-pincipiantes/&sa=D&ust=1571400723376000)
-*   Google Analytics: tutorial de analítica web paso a paso:
-*   [https://romualdfons.com/tutorial-guia-google-analytics/](https://www.google.com/url?q=https://romualdfons.com/tutorial-guia-google-analytics/&sa=D&ust=1571400723376000)
+* Guía de google analytics para principiantes: [https://www.javierbalcazar.com/tutorial-google-analytics-guia-pincipiantes/](https://www.google.com/url?q=https://www.javierbalcazar.com/tutorial-google-analytics-guia-pincipiantes/&sa=D&ust=1571400723376000)
+* Google Analytics: tutorial de analítica web paso a paso:
+* [https://romualdfons.com/tutorial-guia-google-analytics/](https://www.google.com/url?q=https://romualdfons.com/tutorial-guia-google-analytics/&sa=D&ust=1571400723376000)
 
 Guía de Search Console: google ha sacado recientemente una nueva versión de esta herramienta y la antigua aún convive con la nueva. La última versión aún no está finalizada por lo que no he encontrado una guía completa actualizada de google search console
 
-*   [https://romualdfons.com/google-search-console-tutorial/](https://www.google.com/url?q=https://romualdfons.com/google-search-console-tutorial/&sa=D&ust=1571400723377000)
+* [https://romualdfons.com/google-search-console-tutorial/](https://www.google.com/url?q=https://romualdfons.com/google-search-console-tutorial/&sa=D&ust=1571400723377000)
 
 Al menos con estas guías sabrás cómo vincular tu blog, comenzar a recoger datos y saber dónde fijar tu atención para conocer los resultados que te interesan.
 

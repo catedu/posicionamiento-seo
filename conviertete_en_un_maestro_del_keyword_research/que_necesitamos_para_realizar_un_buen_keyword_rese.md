@@ -4,9 +4,9 @@ Si queremos que personas que están buscando sobre lo que escribimos lleguen has
 
 Los ingredientes básicos para realizar un buen estudio de palabras clave son:
 
-*   tener claro el concepto generalizado sobre lo que se va a escribir
-*   hoja en blanco de excel o google sheets
-*   herramientas para realizar el estudio
+* tener claro el concepto generalizado sobre lo que se va a escribir
+* hoja en blanco de excel o google sheets
+* herramientas para realizar el estudio
 
 ### Tener claro el concepto generalizado sobre el que se va a escribir. {#tener-claro-el-concepto-generalizado-sobre-el-que-se-va-a-escribir}
 
@@ -29,10 +29,10 @@ No te saltes ninguna tarea y así al finalizar el curso tendrás tu calendario e
 
 Con el fin de ir volcando todos los datos que nos van a dar las herramientas, necesitamos un documento con una pestaña por cada palabra clave y en cada pestaña cuatro columnas:
 
-*   palabra clave
-*   volumen de búsqueda
-*   competencia
-*   tendencia
+* palabra clave
+* volumen de búsqueda
+* competencia
+* tendencia
 
 >**tip**
 >Tarea: crea un documento y una pestaña por cada tema que quieres abordar en tus próximos posts con sus correspondientes columnas

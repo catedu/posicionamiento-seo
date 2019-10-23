@@ -13,4 +13,4 @@ Por ejemplo: voy a publicar dos veces al mes y serán los martes a las 10:30\.
 >**tip**
 >Tarea: determina cuántas publicaciones puedes realizar cada mes (aunque las circunstancias cambien) y día y hora aproximada de publicación.
 
-*   los artículos se pueden programar, así que si una semana estás más tranquilo, puedes adelantar y programar artículos para esos días que vas sin respiro.
+* los artículos se pueden programar, así que si una semana estás más tranquilo, puedes adelantar y programar artículos para esos días que vas sin respiro.

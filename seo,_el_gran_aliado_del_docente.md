@@ -14,9 +14,7 @@ Gracias al blog y al vídeo, la materia que se transmite no solo se puede ver o 
 
 Un ejemplo muy famoso es el de  David Calle, el profesor youtuber que enseña física a través de su canal a millones de alumnos.
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UDlOJqyJNt0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-https://youtu.be/UDlOJqyJNt0
+{% youtube %}https://youtu.be/UDlOJqyJNt0{% endyoutube %}
 
 Ahora bien, hay tanta información en la red que no es suficiente con tener un blog o un canal en youtube; tampoco con generar contenido de calidad. Necesitas visibilidad, tienes que destacar  y el SEO te va a ayudar a conseguirlo.
 

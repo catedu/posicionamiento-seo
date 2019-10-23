@@ -12,8 +12,8 @@ Una vez que la tengas instalada, realiza una búsqueda de tu primera palabra cla
 
 Con la extensión de Mozbar funcionando, vais a ver que debajo de cada resultado aparece una barra gris oscura con los siguientes datos:
 
-*   PA: autoridad de página, de url (número de enlaces que recibe)
-*   DA: autoridad del dominio
+* PA: autoridad de página, de url (número de enlaces que recibe)
+* DA: autoridad del dominio
 
 Los dominios a partir de 45 tienen una autoridad bastante consolidada y va a ser difícil de superar.
 
@@ -25,11 +25,11 @@ En el ejemplo propuesto hay hasta 4 páginas blog/webs con un DA de menos de 45 
 
 ¿Qué nos dicen estos datos?
 
-*   Si eres un profesor de matemáticas, el contenido tiene interés y tienes opciones para entrar en el top 10
-*   Hay palabras relacionadas como “acertijos matemáticos resueltos” con 2900 búsquedas/mes.
-*   Si creas un canal en pinterest y subes tu contenido, es muy probable que te posiciones.
+* Si eres un profesor de matemáticas, el contenido tiene interés y tienes opciones para entrar en el top 10
+* Hay palabras relacionadas como “acertijos matemáticos resueltos” con 2900 búsquedas/mes.
+* Si creas un canal en pinterest y subes tu contenido, es muy probable que te posiciones.
 
 >**tip**
 >Tarea: analiza tu competencia con cada una de las palabras clave de tu documento. Si la competencia es muy alta, sigue buscando entre las palabras relacionadas y sugeridas hasta encontrar esa longtail con la que puedes encontrar tu hueco en el top10\.
 
-*   Si el nicho te da para atacar una LSI porque apenas hay competencia, o la mayoría son pdf’s, vídeos, etc. ¡A por ella!
+* Si el nicho te da para atacar una LSI porque apenas hay competencia, o la mayoría son pdf’s, vídeos, etc. ¡A por ella!

@@ -4,53 +4,53 @@ Para crear un calendario editorial vamos a utilizar de nuevo un documento excel 
 
 En este documento vais a crear una pestaña por cada mes y en cada mes, las siguientes columnas:
 
-*   Fecha: fecha de publicación
-*   Categoría:
+* Fecha: fecha de publicación
+* Categoría:
 
-*   en tu blog tendrás diferentes categorías y cada artículo lo tienes que asignar a la categoría o categorías que correspondan
-*   Por ejemplo, tienes un blog de recetas de cocina y las categorías son: primeros, segundos, postres, veganos, zumos y bebidas.  Escribes un artículo sobre “tarta de chocolate” y le asignas la categoría “postres” y “veganos”, porque no lleva además ingredientes de origen animal.
+* en tu blog tendrás diferentes categorías y cada artículo lo tienes que asignar a la categoría o categorías que correspondan
+* Por ejemplo, tienes un blog de recetas de cocina y las categorías son: primeros, segundos, postres, veganos, zumos y bebidas.  Escribes un artículo sobre “tarta de chocolate” y le asignas la categoría “postres” y “veganos”, porque no lleva además ingredientes de origen animal.
 
-*   Estado: si el artículo se encuentra en fase de búsqueda de palabras clave, empezado, preparado, aplazado...
-*   Objetivo: branding o marca, tráfico, conseguir enlaces
-*   Título: metatetiqueta title: título del artículo
+* Estado: si el artículo se encuentra en fase de búsqueda de palabras clave, empezado, preparado, aplazado...
+* Objetivo: branding o marca, tráfico, conseguir enlaces
+* Título: metatetiqueta title: título del artículo
 
-*   ahora vemos cómo hacerlo con seo yoast
+* ahora vemos cómo hacerlo con seo yoast
 
-*   Descripción: metaetiqueta metadescription
+* Descripción: metaetiqueta metadescription
 
-*   ahora vemos cómo hacerlo con seo yoast
+* ahora vemos cómo hacerlo con seo yoast
 
-*   Palabra Clave
+* Palabra Clave
 
-*   principal: 1 palabra clave = 1 url
+* principal: 1 palabra clave = 1 url
 
-*   Encabezado H1
+* Encabezado H1
 
-*   solo uno por artículo
+* solo uno por artículo
 
-*   Encabezados H2
+* Encabezados H2
 
-*   para estructurar la información
+* para estructurar la información
 
-*   Enlazado interno
+* Enlazado interno
 
-*   a otros artículos propios del blog
+* a otros artículos propios del blog
 
-*   Enlazado externo
+* Enlazado externo
 
-*   a otras fuentes de información
+* a otras fuentes de información
 
-*   URL final
+* URL final
 
-*   debe ser corta, amigable y descriptiva. Lo vemos más adelante con SEO Yoast
+* debe ser corta, amigable y descriptiva. Lo vemos más adelante con SEO Yoast
 
-*   Tipo de contenido
+* Tipo de contenido
 
-*   si es un texto, si prima la imagen, el vídeo, la infografía...
+* si es un texto, si prima la imagen, el vídeo, la infografía...
 
-*   Observaciones
+* Observaciones
 
-*   cualquier observación que se quiera especificar
+* cualquier observación que se quiera especificar
 
 Si lo preferís, podéis utilizar mi plantilla.
 
@@ -65,10 +65,10 @@ Si recuerdas el glosario, estos artículos de tareas con los alumnos serán noin
 
 Recapitulamos:
 
-*   Tienes un listado de palabras clave y has analizado la competencia de la misma
-*   Sabes en qué te gustaría ser referente con tu blog y por lo tanto has detectado cuáles serán tus artículos pilares
-*   Has creado tu calendario editorial a tres meses vista.
-*   Tienes la barra de chrome y firefox llenas de extensiones estupendas que te van a hacer la vida de blogger docente mucho más sencilla.
+* Tienes un listado de palabras clave y has analizado la competencia de la misma
+* Sabes en qué te gustaría ser referente con tu blog y por lo tanto has detectado cuáles serán tus artículos pilares
+* Has creado tu calendario editorial a tres meses vista.
+* Tienes la barra de chrome y firefox llenas de extensiones estupendas que te van a hacer la vida de blogger docente mucho más sencilla.
 
 Pues entonces ha llegado el momento de sentarnos a redactar el artículo. Entiendo que eres especialista en la materia y que quizá no necesites demasiado trabajo de investigación.
 

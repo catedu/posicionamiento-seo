@@ -10,11 +10,11 @@ Quizá en tu blog puedas escribir sobre diferentes procesos de automatización, 
 
 Tus artículos pilares guardarán relación con esta temática concreta. Recuerda que una palabra clave = una única url,  por lo que podrías escribir sobre:
 
-*   principios de la robótica educativa
-*   robótica educativa beneficios
-*   robótica educativa en primaria
-*   prácticas de robótica educativa
-*   etc.
+* principios de la robótica educativa
+* robótica educativa beneficios
+* robótica educativa en primaria
+* prácticas de robótica educativa
+* etc.
 
 El resto de artículos también deben estar trabajados y enfocados a una palabra clave, pero no requieren de tanta inversión de tiempo.
 

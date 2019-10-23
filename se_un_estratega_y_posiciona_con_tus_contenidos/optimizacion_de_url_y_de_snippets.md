@@ -8,13 +8,13 @@ La palabra clave escogida para este artículo fue: redes sociales aula digital
 
 Si analizamos el snippet marcado en rojo podéis ver tres partes:
 
-*   Título: Conecta con tus alumnos gracias a las Redes Sociales en el Aula..
-*   Url: [https://www.rgalgora.com/aula-digital/](https://www.google.com/url?q=https://www.rgalgora.com/aula-digital/&sa=D&ust=1571400723353000)
-*   Descripción: Transformar el aula en un aula digital… (en este caso Google ha incluido un enlace dentro de la descripción porque él ha querido, aunque no es lo normal)
+* Título: Conecta con tus alumnos gracias a las Redes Sociales en el Aula..
+* Url: [https://www.rgalgora.com/aula-digital/](https://www.google.com/url?q=https://www.rgalgora.com/aula-digital/&sa=D&ust=1571400723353000)
+* Descripción: Transformar el aula en un aula digital… (en este caso Google ha incluido un enlace dentro de la descripción porque él ha querido, aunque no es lo normal)
 
 Vamos a ver cómo podemos optimizar estas tres partes gracias a SEO Yoast.
 
-*   Url del contenido: debe ser corta, amigable, descriptiva e incluir la palabra clave
+* Url del contenido: debe ser corta, amigable, descriptiva e incluir la palabra clave
 
 ![](/img/image15.png)
 
@@ -44,7 +44,7 @@ Con la redirección 301 le decimos a Google que cuando llegue a la url A, ésta 
 
 Más adelante, te indico un plugin para hacerlo
 
-*   title y metadescription: deben ser atractivos, incentivar al click para destacar en el listado de resultados y aumentar el CTR. Además ambos deben incluir la palabra clave.
+* title y metadescription: deben ser atractivos, incentivar al click para destacar en el listado de resultados y aumentar el CTR. Además ambos deben incluir la palabra clave.
 
 ![](/img/image16.png)
 

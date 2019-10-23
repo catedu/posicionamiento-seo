@@ -1,4 +1,4 @@
-# SEO On Page: preparando el terreno[^c] {#seo-on-page-preparando-el-terreno-c}
+# SEO On Page: preparando el terreno {#seo-on-page-preparando-el-terreno-c}
 
 Doy por sentado que tienes una web o un blog o que al menos tienes intención de crear uno.
 
@@ -40,9 +40,8 @@ Hay muchísimas plantillas gratuitas orientadas a revistas, blogs. Una de las m�
 
 El hosting que contrates, tanto Raiola como ProfesionalHosting, te ayudarán a instalar wordpress y la plantilla para que tú no tengas que ocuparte de esta parte más técnica. En el caso de que ya tengas blog con contenidos te ayudarán a migrarlo si te has decidido por dar una limpieza de cara a tu blog.
 
-*   >**tip**
+* >**tip**
 >Tarea: si no tienes blog, piensa sobre el nombre del dominio y compara hostings. Elige el que más te llame y a por ello.
-
 >Si ya tienes blog, reflexiona si quieres meterte en un cambio o si te quedas como estás, optimizándolo.
 
 ### Plugin SEO Yoast {#plugin-seo-yoast}
@@ -53,7 +52,8 @@ En este punto voy a listar una serie de aspectos básicos que hay que trabajar d
 
 Comenzamos con tarea:
 
-*   Instalar el plugin SEO Yoast: [https://es.wordpress.org/plugins/wordpress-seo/](https://www.google.com/url?q=https://es.wordpress.org/plugins/wordpress-seo/&sa=D&ust=1571400723301000)
+>**tip**
+>Tarea: Instalar el plugin SEO Yoast: [https://es.wordpress.org/plugins/wordpress-seo/](https://www.google.com/url?q=https://es.wordpress.org/plugins/wordpress-seo/&sa=D&ust=1571400723301000)
 
 Se trata de un plugin muy completo que te va a ayudar con el SEO de tu blog.
 
@@ -73,7 +73,7 @@ Ahora te aparecerá en la columna de la izquierda, casi siempre debajo de “aju
 
 Hay muchísimos tutoriales sobre cómo configurar Yoast SEO, tanto en artículo como en vídeo.
 
-Os deja enlace a un vídeo de Alex Serrano [https://www.youtube.com/watch?v=yYaLcryqikA](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DyYaLcryqikA&sa=D&ust=1571400723302000) que creo que lo explica muy bien paso a paso.  
+Os deja enlace a un [vídeo de Alex Serrano](https://www.youtube.com/watch?v=yYaLcryqikA) que creo que lo explica muy bien paso a paso.  
 
 Una vez que lo tengas instalado, te van a aparecer las siguientes opciones:
 
@@ -83,20 +83,20 @@ En el vídeo de Alex Serrano explica paso a paso cómo configurarlo según las n
 
 Con SEO Yoast bien configurado tendrás:
 
-*   un sitemap.xml optimizado
-*   un robots.txt
-*   podrás vincularlo a tus redes sociales
-*   podrás conectarlo con Google Search Console (herramienta gratuita de Google para analizar datos de tu blog)
-*   y mucho más…
+* un sitemap.xml optimizado
+* un robots.txt
+* podrás vincularlo a tus redes sociales
+* podrás conectarlo con Google Search Console (herramienta gratuita de Google para analizar datos de tu blog)
+* y mucho más…
 
-Sobre todo, cómo vamos a ver en el punto de “sé un estratega y posiciona con tus contenidoY vuelvo al SEO, que si no me desvío del camino…s” te va a guiar en la redacción y optimización de tu artículo.
+Sobre todo, cómo vamos a ver en el punto de “sé un estratega y posiciona con tus contenido, te va a guiar en la redacción y optimización de tu artículo.
 
 *  >**tip**
-> Tarea: instala el plugin SEO Yoast y sigue paso a paso para su configuración.
+> Tarea: Sigue paso a paso la configuración de SEO Yoast.
 
 ¡Ojo! esto para blogs que parten de cero. Si tu blog ya tiene recorrido, habría que hacer una auditoría breve para que no aparecieran errores 404\.
 
-En el caso de que ya tengas numerosos artículos escritos, quédate solo con la parte de seo yoast que explico en la parte de contenidos.
+En el caso de que ya tengas numerosos artículos escritos, quédate solo con la parte de seo yoast que explico en la [parte de contenidos](se_un_estratega_y_posiciona_con_tus_contenidos.md).
 
 ### Errores 404 {#errores-404}
 
@@ -108,13 +108,13 @@ Es necesario que revises tu blog en busca de errores 404, ya que a google no les
 
 Algunas herramientas gratuitas para revisar los errores 404:
 
-*   [https://www.brokenlinkcheck.com/](https://www.google.com/url?q=https://www.brokenlinkcheck.com/&sa=D&ust=1571400723305000)
-*   extensión para instalar broken link checker [https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch&sa=D&ust=1571400723306000)
-*   extensión para instalar: check my links [https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf&sa=D&ust=1571400723306000) (mi favorita)
+* [https://www.brokenlinkcheck.com/](https://www.google.com/url?q=https://www.brokenlinkcheck.com/&sa=D&ust=1571400723305000)
+* extensión para instalar broken link checker [https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch&sa=D&ust=1571400723306000)
+* extensión para instalar: check my links [https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf&sa=D&ust=1571400723306000) (mi favorita)
 
 ![](/img/image43.png)
 
-*   >**tip**
+* >**tip**
 >Tarea: instalar la extensión que prefiráis o utilizar la herramienta y analizar varios artículos de vuestro blog para comprobar que no hay errores 404\.
 
 ### Encabezados {#encabezados}
@@ -133,7 +133,7 @@ Cuando escribes un artículo en wordpress, la primera caja de texto es para el H
 
 ![](/img/image47.png)
 
-*   >**tip**
+* >**tip**
 >Tarea: instalar la extensión webdeveloper, elegir un artículo y clicando sobre la rueda dentada -&gt; “view document online” comprobar que tiene H1 y una arquitectura adecuada de encabezados.
 
 ### Optimización de las imágenes {#optimizaci-n-de-las-im-genes}
@@ -162,7 +162,7 @@ Podrás optimizar por lotes todas las imágenes que ya están subidas.
 
 ![](/img/image49.png)
 
-*   >**tip**
+* >**tip**
 >Tarea: instala el plugin y reduce el peso de las imágenes o reduce su peso si es la primera vez que las subes. Revisa y rellena los campos de título y texto alternativo.
 
 ### Titles y metadescriptions (títulos y descripciones) {#titles-y-metadescriptions-t-tulos-y-descripciones}
@@ -173,16 +173,16 @@ Esta parte pertenece al on page pero vamos a verla con detenimiento en el punto 
 
 Existen varias herramientas que nos indican la velocidad de nuestro blog. Las tres más importantes son:
 
-*   page speed insights (de google): [https://developers.google.com/speed/pagespeed/insights/?hl=es](https://www.google.com/url?q=https://developers.google.com/speed/pagespeed/insights/?hl%3Des&sa=D&ust=1571400723314000)
-*   gtmetrix: [https://gtmetrix.com/](https://www.google.com/url?q=https://gtmetrix.com/&sa=D&ust=1571400723315000) (elige tu navegador y país UK, que es lo más cercano)
-*   pingdoom tools: [https://tools.pingdom.com/](https://www.google.com/url?q=https://tools.pingdom.com/&sa=D&ust=1571400723315000)  elige Londres también.
+* page speed insights (de google): [https://developers.google.com/speed/pagespeed/insights/?hl=es](https://www.google.com/url?q=https://developers.google.com/speed/pagespeed/insights/?hl%3Des&sa=D&ust=1571400723314000)
+* gtmetrix: [https://gtmetrix.com/](https://www.google.com/url?q=https://gtmetrix.com/&sa=D&ust=1571400723315000) (elige tu navegador y país UK, que es lo más cercano)
+* pingdoom tools: [https://tools.pingdom.com/](https://www.google.com/url?q=https://tools.pingdom.com/&sa=D&ust=1571400723315000)  elige Londres también.
 
 En numerosas ocasiones solo con mejorar la optimización de las imágenes, la velocidad mejora muchísimo. En otras cosas será necesario tocar aspectos más técnicos.
 
-*   >**tip**
+* >**tip**
 >Tarea: revisa tu blog con estas tres herramientas y comprueba si optimizando las imágenes puedes mejorar la velocidad.
 
-*   en ocasiones no solo es el peso, sino también la escala de la fotografía.
+* en ocasiones no solo es el peso, sino también la escala de la fotografía.
 
 Cómo ves, el mundo del SEO puede ser inabarcable. Para un blog docente considero que implementado y configurando correctamente SEO Yoast y teniendo en cuenta la velocidad de carga, la optimización de las imágenes, encabezados, errores 404 y títulos y metadescripciones ya habremos hecho un gran trabajo.
 
@@ -195,5 +195,3 @@ Simplemente la tienes que descargar en tu ordenador, logarte y analizar tu blog.
 Te aviso que este extra es para nota. Porque realmente te esté interesando mucho este mundillo, quieras cacharrear y probar, mirar cosas para tu site. En caso contrario, no te compliques.
 
 Para guiarte en el uso de la ranita, una de las personas que mejor conoce screaming frog es la consultora SEO Mj Cachon. Os dejo su guía en este enlace: [https://www.mjcachon.com/blog/configurar-screaming-frog/](https://www.google.com/url?q=https://www.mjcachon.com/blog/configurar-screaming-frog/&sa=D&ust=1571400723317000)
-
-[^c]:

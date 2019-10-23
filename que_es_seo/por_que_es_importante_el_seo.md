@@ -1,6 +1,6 @@
 ## ¿Por qué es importante el SEO? {#por-qu-es-importante-el-seo}
 
-Hay un dicho popular que afirma que si quieres esconder un cadáver el mejor lugar para hacerlo es en la segunda página de google[^a].
+Hay un dicho popular que afirma que si quieres esconder un cadáver el mejor lugar para hacerlo es en la segunda página de google.
 
 En términos generales, el primer resultado se lleva el 60% de los clics. La segunda posición baja hasta el 20% y a partir de la tercera, el porcentaje de clics se reduce considerablemente hasta prácticamente desaparecer en el top 10 de la primera página.
 
@@ -13,5 +13,3 @@ Además, desde hace unos años los resultados no comienzan con la posición 1, s
 ![](/img/image36.png)
 
 ![](/img/image35.png)
-
-[^a]:

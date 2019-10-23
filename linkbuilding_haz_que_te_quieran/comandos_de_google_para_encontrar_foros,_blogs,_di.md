@@ -1,38 +1,38 @@
 ## Comandos de google para encontrar foros, blogs, directorios...de la misma temática (continuamos con el ejemplo de docenciaconpaciencia.com y su artículo de “beneficios de la robótica educativa”) {#comandos-de-google-para-encontrar-foros-blogs-directorios-de-la-misma-tem-tica-continuamos-con-el-ejemplo-de-docenciaconpaciencia-com-y-su-art-culo-de-beneficios-de-la-rob-tica-educativa}
 
-*   comando “inurl”: obtienes resultados que contienen esa palabra clave en su url
+* comando “inurl”: obtienes resultados que contienen esa palabra clave en su url
 
 ![](/img/image18.png)
 
-*   comando “inurl + filetype”: resultado de búsqueda por tipo de archivo
+* comando “inurl + filetype”: resultado de búsqueda por tipo de archivo
 
 ![](/img/image19.png)
 
-*   comando “intitle”: resultados que solo tengan esa palabra clave en el título
+* comando “intitle”: resultados que solo tengan esa palabra clave en el título
 
 ![](/img/image20.png)
 
-*   comando “inanchor”: resultados que solo contengan esa palabra clave en los enlaces de texto
+* comando “inanchor”: resultados que solo contengan esa palabra clave en los enlaces de texto
 
 ![](/img/image1.png)
 
-*   comando comillas “”: coincidencia de frase. Ponemos entre las comillas la palabra clave, cuánto más específico mejor
+* comando comillas “”: coincidencia de frase. Ponemos entre las comillas la palabra clave, cuánto más específico mejor
 
 ![](/img/image2.png)
 
-*   comando comillas “palabra clave” inurl:blog OR intitle: blog: para buscar blogs relacionados con nuestra palabra clave
+* comando comillas “palabra clave” inurl:blog OR intitle: blog: para buscar blogs relacionados con nuestra palabra clave
 
 ![](/img/image3.png)
 
-*   comando comillas “palabra clave” inurl:foro OR intitle:foro para buscar foros relacionados con nuestra palabra clave
+* comando comillas “palabra clave” inurl:foro OR intitle:foro para buscar foros relacionados con nuestra palabra clave
 
 ![](/img/image4.png)
 
-*   keyword “articulo invitado”, “autor invitado”, “post invitado”, “enviar articulo”, “colabora con nosotros”, etc.: comando para encontrar blogs donde escribir como autor invitado
+* keyword “articulo invitado”, “autor invitado”, “post invitado”, “enviar articulo”, “colabora con nosotros”, etc.: comando para encontrar blogs donde escribir como autor invitado
 
 ![](/img/image5.png)
 
-*   comando negación “-”: excluye la palabra que va detrás del guión
+* comando negación “-”: excluye la palabra que va detrás del guión
 
 ![](/img/image6.png)
 
