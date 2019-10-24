@@ -6,56 +6,33 @@ En este documento vais a crear una pestaña por cada mes y en cada mes, las sigu
 
 * Fecha: fecha de publicación
 * Categoría:
-
-* en tu blog tendrás diferentes categorías y cada artículo lo tienes que asignar a la categoría o categorías que correspondan
-* Por ejemplo, tienes un blog de recetas de cocina y las categorías son: primeros, segundos, postres, veganos, zumos y bebidas.  Escribes un artículo sobre “tarta de chocolate” y le asignas la categoría “postres” y “veganos”, porque no lleva además ingredientes de origen animal.
-
+  * en tu blog tendrás diferentes categorías y cada artículo lo tienes que asignar a la categoría o categorías que correspondan
+  * Por ejemplo, tienes un blog de recetas de cocina y las categorías son: primeros, segundos, postres, veganos, zumos y bebidas.  Escribes un artículo sobre “tarta de chocolate” y le asignas la categoría “postres” y “veganos”, porque no lleva además ingredientes de origen animal.
 * Estado: si el artículo se encuentra en fase de búsqueda de palabras clave, empezado, preparado, aplazado...
 * Objetivo: branding o marca, tráfico, conseguir enlaces
 * Título: metatetiqueta title: título del artículo
-
-* ahora vemos cómo hacerlo con seo yoast
-
+  * ahora vemos cómo hacerlo con seo yoast
 * Descripción: metaetiqueta metadescription
-
-* ahora vemos cómo hacerlo con seo yoast
-
+  * ahora vemos cómo hacerlo con seo yoast
 * Palabra Clave
-
-* principal: 1 palabra clave = 1 url
-
+  * principal: 1 palabra clave = 1 url
 * Encabezado H1
-
-* solo uno por artículo
-
+  * solo uno por artículo
 * Encabezados H2
-
-* para estructurar la información
-
+  * para estructurar la información
 * Enlazado interno
-
-* a otros artículos propios del blog
-
+  * a otros artículos propios del blog
 * Enlazado externo
-
-* a otras fuentes de información
-
+  * a otras fuentes de información
 * URL final
-
-* debe ser corta, amigable y descriptiva. Lo vemos más adelante con SEO Yoast
-
+  * debe ser corta, amigable y descriptiva. Lo vemos más adelante con SEO Yoast
 * Tipo de contenido
-
-* si es un texto, si prima la imagen, el vídeo, la infografía...
-
+  * si es un texto, si prima la imagen, el vídeo, la infografía...
 * Observaciones
-
-* cualquier observación que se quiera especificar
-
-Si lo preferís, podéis utilizar mi plantilla.
+  * cualquier observación que se quiera especificar
 
 >**tip**
->Tarea: crea tu propio documento y personalízalo o toma como base mi plantilla
+>**Tarea**: crea tu propio documento y personalízalo o toma como base [mi plantilla](/assets/CALENDARIO-EDITORIAL.ods).
 
 Este calendario es sobre todo para llevar mayor control de tus artículos pilares y de los post con los que quieres difundir tu conocimiento y prácticas más allá de las cuatro paredes.
 

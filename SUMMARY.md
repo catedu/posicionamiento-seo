@@ -13,7 +13,7 @@
 * [Conviértete en un maestro del keyword research](conviertete_en_un_maestro_del_keyword_research/README.md)
   * [Tipos de palabras clave](conviertete_en_un_maestro_del_keyword_research/tipos_de_palabras_clave.md)
   * [¿Qué necesitamos para realizar un buen keyword research? ](conviertete_en_un_maestro_del_keyword_research/que_necesitamos_para_realizar_un_buen_keyword_rese.md)
-  * [Herramientas gratuitas:](conviertete_en_un_maestro_del_keyword_research/herramientas_gratuitas.md)
+    * [Herramientas gratuitas:](conviertete_en_un_maestro_del_keyword_research/herramientas_gratuitas.md)
 
 ### 3. Generando contenido
 * [Sé un estratega y posiciona con tus contenidos](se_un_estratega_y_posiciona_con_tus_contenidos/README.md)
@@ -44,3 +44,6 @@
 * [Plugins y extensiones básicas](plugins_y_extensiones_basicas.md)
 * [Mi recomendación - conclusión](mi_recomendacion_-_conclusion.md)
 * [MI PRESENTACIÓN](mi_presentacion.md)
+
+### Información
+* [Créditos](creditos.md)

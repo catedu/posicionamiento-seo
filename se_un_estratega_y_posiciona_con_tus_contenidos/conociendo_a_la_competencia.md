@@ -2,7 +2,7 @@
 
 Ahora vamos a mirar con mayor detenimiento la competencia que existe en las serps para esa palabra clave. Recuerda que vamos a poner nuestro foco sobre todo en las palabras “long tail”, esto es, que tengan cuatro o más términos. Si vemos que no hay mucha autoridad, podemos atacar las LSI, palabras de 2-3 términos.
 
-Para conocer la autoridad de tus competidores, te voy a pedir que añadas la extensión de Mozbar  [https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=es](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl%3Des&sa=D&ust=1571400723341000)
+Para conocer la autoridad de tus competidores, te voy a pedir que añadas la extensión de [Mozbar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp?hl=es).
 
 ![](/img/image12.png)
 
@@ -31,5 +31,4 @@ En el ejemplo propuesto hay hasta 4 páginas blog/webs con un DA de menos de 45 
 
 >**tip**
 >Tarea: analiza tu competencia con cada una de las palabras clave de tu documento. Si la competencia es muy alta, sigue buscando entre las palabras relacionadas y sugeridas hasta encontrar esa longtail con la que puedes encontrar tu hueco en el top10\.
-
-* Si el nicho te da para atacar una LSI porque apenas hay competencia, o la mayoría son pdf’s, vídeos, etc. ¡A por ella!
+>  * Si el nicho te da para atacar una LSI porque apenas hay competencia, o la mayoría son pdf’s, vídeos, etc. ¡A por ella!

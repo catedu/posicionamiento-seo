@@ -7,7 +7,7 @@ En este glosario te explico brevemente y de manera ejemplificada algunos términ
 
 
 * **URL (Uniform Resource Localizator)**: siglas que se utilizan para denominar a aquella dirección específica que se le asigna a cada página web para facilitar el acceso a cualquier usuario.
-  * ejemplos: [https://moodle.catedu.es/](https://www.google.com/url?q=http://moodle.catedu.es/&sa=D&ust=1571400723286000) esto es una url.
+  * ejemplos: [https://moodle.catedu.es/](http://moodle.catedu.es/) esto es una url.
 
 
 * **Palabra clave o keyword**: palabra o conjunto de palabras que utilizamos los usuarios en un buscador para encontrar la información que deseamos.
@@ -27,7 +27,7 @@ Existen diferentes tipos de palabra clave: generales, lsi y long tail. Las vemos
     * ejemplos: comprar entrada concierto ticketea
 
 >**info**
->Si quieres ampliar información sobre la intención de búsqueda, te dejo enlace a este artículo que escribí para el blog de webpositer (agencia SEO y de Marketing): [https://www.webpositer.com/blog/intencion-de-busqueda-en-seo.html](https://www.google.com/url?q=https://www.webpositer.com/blog/intencion-de-busqueda-en-seo.html&sa=D&ust=1571400723287000)
+>Si quieres ampliar información sobre la intención de búsqueda, te dejo enlace a este artículo que escribí para el blog de webpositer (agencia SEO y de Marketing): [https://www.webpositer.com/blog/intencion-de-busqueda-en-seo.html](https://www.webpositer.com/blog/intencion-de-busqueda-en-seo.html)
 
 * **Volumen de búsqueda**: el interés de una palabra clave depende, entre otros factores, de su volumen de búsqueda y competencia. Con volumen de búsqueda nos referimos a la cantidad de usuarios que utilizan esa palabra clave cada mes para realizar una búsqueda en google.
     ![](/img/image38.png)
@@ -44,16 +44,16 @@ Existen diferentes tipos de palabra clave: generales, lsi y long tail. Las vemos
   * En el punto de redacción SEO veremos la importancia de realizar un buen uso de los encabezados.
 * **Snippets**: así se denominan a los resultados que aparecen al realizar una búsqueda en google. Cada snippet está formado al menos de un título (title) y descripción (metadescription)  
   * En los recuadros rojos destaco dos snippets y con las flechas apunto a un título y una descripción.
-  * con esta herramienta gratuita online [https://seomofo.com/snippet-optimizer.html](https://www.google.com/url?q=https://seomofo.com/snippet-optimizer.html&sa=D&ust=1571400723290000)  puedes ver cómo queda el snippet antes de publicar. De esta manera podrás optimizarlo evitar que el título aparezca cortado o la descripción con puntos suspensivos.
+  * con esta herramienta gratuita online [https://seomofo.com/snippet-optimizer.html](https://seomofo.com/snippet-optimizer.html)  puedes ver cómo queda el snippet antes de publicar. De esta manera podrás optimizarlo evitar que el título aparezca cortado o la descripción con puntos suspensivos.
   * Si te estás preguntando donde puedes escribir o modificar esta información, tranquil@, en el curso te enseño cómo.
     ![](/img/image37.png)
 * **CTR (click through rate)**: es decir, el número de clics que recibe un snippet divido entre su número de impresiones.
   * si el snippet está bien optimizado y resulta atractivo, recibirá más clics y, por tanto, el CTR será mayor. Si por el contrario, no se cuida y pasa desapercibido, el CTR será menor. Al no conseguir clics, google entenderá que el contenido no interesa, y le hará perder posiciones.
 * **sitemap.xml**: es un archivo con extensión xml que recoge todas las urls accesibles y más importantes para que los buscadores puedan llegar a ellas.
   * si coges cualquier web y pones al final sitemap.xml podrás ver su archivo (si es que lo tienen, que deberían)
-  * ejemplo: [https://www.educaciontrespuntocero.com/sitemap.xml](https://www.google.com/url?q=https://www.educaciontrespuntocero.com/sitemap.xml&sa=D&ust=1571400723292000)
+  * ejemplo: [https://www.educaciontrespuntocero.com/sitemap.xml](https://www.educaciontrespuntocero.com/sitemap.xml)
 * **robots.txt**: es un archivo con extensión .txt que sirve para indicarle al buscador en qué partes de nuestra web y/o blog puede acceder y en cuáles no. También sirve para indicarle en qué url se encuentra nuestro sitemap.
-  * ejemplo: [https://www.educaciontrespuntocero.com/robots.txt](https://www.google.com/url?q=https://www.educaciontrespuntocero.com/robots.txt&sa=D&ust=1571400723292000)
+  * ejemplo: [https://www.educaciontrespuntocero.com/robots.txt](https://www.educaciontrespuntocero.com/robots.txt)
 * **Error 404**: se trata de un código respuesta que indica que el usuario no puede acceder a una determinada url porque ésta no funciona. Puede darse por varios motivos, uno de ellos, modificar una url cuando ésta ya había sido publicada.
   * en el punto “trabajando el seo on page” te doy  alguna herramienta para que puedas revisar estos errores 404 y darles solución.  
 * **WPO o velocidad de carga**: hace referencia al tiempo que tarda una página en estar disponible desde que el usuario hace clic en la misma. Es un factor muy importante de cara al posicionamiento.

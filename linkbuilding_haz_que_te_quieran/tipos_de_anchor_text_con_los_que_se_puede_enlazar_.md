@@ -4,7 +4,7 @@ Supongamos que nuestro blog se llama docenciaconpaciencia.com y el artículo par
 
 * Marca: docenciaconpaciencia.com
 * Genéricos: esta web, aquí
-* URL exacta: [https://docenciaconpaciencia.com/beneficios-robotica-educativa/](https://www.google.com/url?q=https://docenciaconpaciencia.com/beneficios-robotica-educativa/&sa=D&ust=1571400723366000)
+* URL exacta: [https://docenciaconpaciencia.com/beneficios-robotica-educativa/](https://docenciaconpaciencia.com/beneficios-robotica-educativa/)
 * Keyword exacta: beneficios de la robótica educativa
 * variación de la keyword exacta (sinónimos y relacionadas): ventajas de la robótica en la educación
 * marca + keyword: este artículo de los beneficios de la robótica educativa de docenciaconpaciencia.com

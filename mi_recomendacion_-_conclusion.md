@@ -12,7 +12,7 @@ Comienza a aplicar las recomendaciones desde el principio y será cuestión de t
 
 En el mundo de los blogs y canales de youtube docentes hay una gran oportunidad SEO, ¡aprovéchala!
 
-* Documentos adjuntos
+### Documentos adjuntos
 
-* estudio de linkbuilding de Publisuites
-* plantilla calendario editorial
+* [Estudio de linkbuilding de Publisuites](/assets/II-Estudio-de-linkbuilding-2018.pdf).
+* [Plantilla calendario editorial](CALENDARIO-EDITORIAL.ods).

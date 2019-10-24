@@ -23,6 +23,7 @@ Como veremos más adelante, a la hora de generar contenido no hay lugar a la imp
 >**tip**
 >Tarea: crea un listado de diferentes temas que te gustaría abordar en tus próximos artículos. - mínimo 10- .
 
+<!--TODO Escribir esto en el inicio de los contenidos y del curso-->
 No te saltes ninguna tarea y así al finalizar el curso tendrás tu calendario editorial para los próximos tres meses.
 
 ### Hoja en blanco en excel o google sheet {#hoja-en-blanco-en-excel-o-google-sheet}
@@ -43,4 +44,5 @@ En cada pestaña del documento general ve apuntando todos los datos que obtienes
 
 Aunque tengamos estas cuatro columnas en el documento, no siempre dispondremos de todos los datos al tratarse en muchos casos de herramientas gratuitas, aunque sí nos haremos una idea generalizada de por dónde ir.
 
-Nota: a la hora de buscar palabras clave es mejor no utilizar tildes, ya que suelen tener menos búsquedas mensuales (la gente no suele usar tildes al buscar en google)
+>**info**
+>Nota: a la hora de buscar palabras clave es mejor no utilizar tildes, ya que suelen tener menos búsquedas mensuales (la gente no suele usar tildes al buscar en google).

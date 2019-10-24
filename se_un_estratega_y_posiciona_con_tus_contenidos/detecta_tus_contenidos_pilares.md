@@ -8,7 +8,7 @@ Por ejemplo, impartes clases de automatización, pero lo que realmente te motiva
 
 Quizá en tu blog puedas escribir sobre diferentes procesos de automatización, prácticas de robótica, etc. si bien gracias al blog vas a trabajar directamente tu marca personal como especialista en robótica educativa.
 
-Tus artículos pilares guardarán relación con esta temática concreta. Recuerda que una palabra clave = una única url,  por lo que podrías escribir sobre:
+Tus artículos pilares guardarán relación con esta temática concreta. Recuerda que **una palabra clave = una única url**,  por lo que podrías escribir sobre:
 
 * principios de la robótica educativa
 * robótica educativa beneficios
@@ -19,4 +19,4 @@ Tus artículos pilares guardarán relación con esta temática concreta. Recuerd
 El resto de artículos también deben estar trabajados y enfocados a una palabra clave, pero no requieren de tanta inversión de tiempo.
 
 >**tip**
->Tarea: reflexiona sobre cuáles serán tus artículos pilares
+>Tarea: reflexiona sobre cuáles serán tus artículos pilares.

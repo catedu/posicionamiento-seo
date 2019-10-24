@@ -26,7 +26,7 @@ Otro buen hosting que recomiendo es el de ProfesionalHosting, que también regal
 
 Soy afiliada, aunque nunca los recomendaría si no estuviera contenta con su rendimiento. Son los hosting que utilizo para mis páginas personales y con mis clientes.
 
-Raiola:  [https://gestiondecuenta.eu/aff.php?aff=2805](https://www.google.com/url?q=https://gestiondecuenta.eu/aff.php?aff%3D2805&sa=D&ust=1571400723298000) si vas a contratar hosting con Raiola, por favor, accede a su web a través de mi enlace.
+Raiola:  [https://gestiondecuenta.eu/aff.php?aff=2805](https://gestiondecuenta.eu/aff.php?aff%3D2805) si vas a contratar hosting con Raiola, por favor, accede a su web a través de mi enlace.
 
 ProfesionalHosting: si te has decidido por professional hosting, por favor indica que vienes referido por mí: Rocío García Algora.
 
@@ -36,7 +36,7 @@ Muchas gracias de antemano.
 
 Lo importante es que sea intuitiva y muy limpia de código, para que la velocidad de carga no sea pesada.
 
-Hay muchísimas plantillas gratuitas orientadas a revistas, blogs. Una de las más destacadas y utilizadas por su facilidad y ligereza es [Twenty seventeen](https://www.google.com/url?q=https://es.wordpress.org/themes/twentyseventeen/&sa=D&ust=1571400723299000) [https://es.wordpress.org/themes/twentyseventeen/](https://www.google.com/url?q=https://es.wordpress.org/themes/twentyseventeen/&sa=D&ust=1571400723299000)
+Hay muchísimas plantillas gratuitas orientadas a revistas, blogs. Una de las más destacadas y utilizadas por su facilidad y ligereza es [Twenty seventeen](https://es.wordpress.org/themes/twentyseventeen/)
 
 El hosting que contrates, tanto Raiola como ProfesionalHosting, te ayudarán a instalar wordpress y la plantilla para que tú no tengas que ocuparte de esta parte más técnica. En el caso de que ya tengas blog con contenidos te ayudarán a migrarlo si te has decidido por dar una limpieza de cara a tu blog.
 
@@ -53,7 +53,7 @@ En este punto voy a listar una serie de aspectos básicos que hay que trabajar d
 Comenzamos con tarea:
 
 >**tip**
->Tarea: Instalar el plugin SEO Yoast: [https://es.wordpress.org/plugins/wordpress-seo/](https://www.google.com/url?q=https://es.wordpress.org/plugins/wordpress-seo/&sa=D&ust=1571400723301000)
+>Tarea: Instalar el plugin SEO Yoast: [https://es.wordpress.org/plugins/wordpress-seo/](https://es.wordpress.org/plugins/wordpress-seo/)
 
 Se trata de un plugin muy completo que te va a ayudar con el SEO de tu blog.
 
@@ -108,9 +108,9 @@ Es necesario que revises tu blog en busca de errores 404, ya que a google no les
 
 Algunas herramientas gratuitas para revisar los errores 404:
 
-* [https://www.brokenlinkcheck.com/](https://www.google.com/url?q=https://www.brokenlinkcheck.com/&sa=D&ust=1571400723305000)
-* extensión para instalar broken link checker [https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch&sa=D&ust=1571400723306000)
-* extensión para instalar: check my links [https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf&sa=D&ust=1571400723306000) (mi favorita)
+* [https://www.brokenlinkcheck.com/](https://www.brokenlinkcheck.com/)
+* extensión para instalar broken link checker [https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch](https://chrome.google.com/webstore/detail/broken-link-checker/nibppfobembgfmejpjaaeocbogeonhch)
+* extensión para instalar: check my links [https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) (mi favorita)
 
 ![](/img/image43.png)
 
@@ -121,15 +121,15 @@ Algunas herramientas gratuitas para revisar los errores 404:
 
 Cada artículo debe tener obligatoriamente un H1 y sería recomendable dividir toda la información mediante H2 y h3\.
 
-Con la extensión gratuita webdeveloper (chrome, firefox, etc) [https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=es-419](https://www.google.com/url?q=https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl%3Des-419&sa=D&ust=1571400723308000) , una vez que la tienes instalada, abres cualquier artículo, clicas sobre la rueda dentada y se abre una ventana, en la tercera columna eliges “view document online”
+Con la extensión gratuita webdeveloper ([chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl%3Des-419), [firefox](https://addons.mozilla.org/es/firefox/addon/web-developer/), etc), una vez que la tienes instalada, abres cualquier artículo, clicas sobre la rueda dentada y se abre una ventana, en la tercera columna eliges “view document outline”
 
 ![](/img/image44.png)
 
- y ves la arquitectura de ese artículo:  
+y ves la arquitectura de ese artículo:  
 
 ![](/img/image46.png)
 
-Cuando escribes un artículo en wordpress, la primera caja de texto es para el H1 y en el desplegable de “párrafo” se puede seleccionar “título 2”, “título 3” y suscesivos.
+Cuando escribes un artículo en wordpress, la primera caja de texto es para el H1 y en el desplegable de “párrafo” se puede seleccionar “título 2”, “título 3” y sucesivos.
 
 ![](/img/image47.png)
 
@@ -142,21 +142,17 @@ Las imágenes son algunos de los elementos que dan más quebraderos de cabeza en
 
 Pasos para optimizar una imagen:
 
-1.  Comenzamos con la reducción del peso de la imagen. Existen varias herramientas para ello, como photoshop y algunas online como  tinypng.com [https://tinypng.com/](https://www.google.com/url?q=https://tinypng.com/&sa=D&ust=1571400723310000) y compressor.io [https://compressor.io/](https://www.google.com/url?q=https://compressor.io/&sa=D&ust=1571400723311000)
-2.  ￼
-3.  CURSO SEO PARA DOCENTES -CATEDU
-4.  .DOCXse nombra el archivo utilizando la palabra clave. Nada de “45637.jpg”, si no “arquitectura-renacentista.jpg”, por ejemplo.
-5.  Se sube a wordpress a a través de medios -&gt; añadir nuevo (columna izquierda, arriba)
-
-1.  por regla general, una foto de 1024 px es suficiente para web.
-
-1.  Se indica título y texto alternativo, utilizando palabra clave
+1.  Comenzamos con la reducción del peso de la imagen. Existen varias herramientas para ello, como photoshop y algunas online como  [tinypng.com](https://tinypng.com/) y [compressor.io](https://compressor.io/)
+2. Nombra el archivo utilizando la palabra clave. Nada de “45637.jpg”, si no “arquitectura-renacentista.jpg”, por ejemplo.
+3. Se sube a wordpress a a través de medios -> añadir nuevo (columna izquierda, arriba)
+4. Por regla general, una foto de 1024 px es suficiente para web.
+5. Se indica título y texto alternativo, utilizando palabra clave.
 
 ![](/img/image48.png)
 
 Ojo, no se debe repetir título ni alt, por lo que si tienes varias imágenes en tu post de “arquitectura renacentista”, puedes añadir por ejemplo “arquitectura renacentista estilo plateresco”, “arquitectura renacentista salamanca”, etc.
 
-En el caso de que ya tengas muchas imágenes subidas a tu blog, para reducir el peso de las mismas te recomiendo que instales el plugin gratuito Smush Imagen Compression and Optimization [https://es.wordpress.org/plugins/wp-smushit/](https://www.google.com/url?q=https://es.wordpress.org/plugins/wp-smushit/&sa=D&ust=1571400723312000)
+En el caso de que ya tengas muchas imágenes subidas a tu blog, para reducir el peso de las mismas te recomiendo que instales el plugin gratuito [Smush Imagen Compression and Optimization](https://es.wordpress.org/plugins/wp-smushit/).
 
 Podrás optimizar por lotes todas las imágenes que ya están subidas.
 
@@ -173,25 +169,23 @@ Esta parte pertenece al on page pero vamos a verla con detenimiento en el punto 
 
 Existen varias herramientas que nos indican la velocidad de nuestro blog. Las tres más importantes son:
 
-* page speed insights (de google): [https://developers.google.com/speed/pagespeed/insights/?hl=es](https://www.google.com/url?q=https://developers.google.com/speed/pagespeed/insights/?hl%3Des&sa=D&ust=1571400723314000)
-* gtmetrix: [https://gtmetrix.com/](https://www.google.com/url?q=https://gtmetrix.com/&sa=D&ust=1571400723315000) (elige tu navegador y país UK, que es lo más cercano)
-* pingdoom tools: [https://tools.pingdom.com/](https://www.google.com/url?q=https://tools.pingdom.com/&sa=D&ust=1571400723315000)  elige Londres también.
+* [page speed insights (de google)](https://developers.google.com/speed/pagespeed/insights/?hl=es)
+* [gtmetrix](https://gtmetrix.com/): elige tu navegador y país UK, que es lo más cercano.
+* [pingdoom tools](https://tools.pingdom.com/): elige Londres también.
 
 En numerosas ocasiones solo con mejorar la optimización de las imágenes, la velocidad mejora muchísimo. En otras cosas será necesario tocar aspectos más técnicos.
 
-* >**tip**
->Tarea: revisa tu blog con estas tres herramientas y comprueba si optimizando las imágenes puedes mejorar la velocidad.
+>**tip**
+>Tarea: revisa tu blog con estas tres herramientas y comprueba si optimizando las imágenes puedes mejorar la velocidad. En ocasiones no solo es el peso, sino también la escala de la fotografía.
 
-* en ocasiones no solo es el peso, sino también la escala de la fotografía.
-
-Cómo ves, el mundo del SEO puede ser inabarcable. Para un blog docente considero que implementado y configurando correctamente SEO Yoast y teniendo en cuenta la velocidad de carga, la optimización de las imágenes, encabezados, errores 404 y títulos y metadescripciones ya habremos hecho un gran trabajo.
+Como ves, el mundo del SEO puede ser inabarcable. Para un blog docente considero que implementado y configurando correctamente SEO Yoast y teniendo en cuenta la velocidad de carga, la optimización de las imágenes, encabezados, errores 404 y títulos y metadescripciones ya habremos hecho un gran trabajo.
 
 ### Extra - PARA NOTA- {#extra-para-nota}
 
-Si tu blog no tiene más de 500 urls (que por regla general en este sector no va a ser así) puedes utilizar de manera totalmente gratuita la herramienta Screaming Frog  [https://www.screamingfrog.co.uk/](https://www.google.com/url?q=https://www.screamingfrog.co.uk/&sa=D&ust=1571400723317000) 
+Si tu blog no tiene más de 500 urls (que por regla general en este sector no va a ser así) puedes utilizar de manera totalmente gratuita la herramienta Screaming Frog  [https://www.screamingfrog.co.uk/](https://www.screamingfrog.co.uk/) 
 
 Simplemente la tienes que descargar en tu ordenador, logarte y analizar tu blog. La herramienta te devolverá todas las urls que tiene tu blog y muchísima información de cada una de ellas.
 
 Te aviso que este extra es para nota. Porque realmente te esté interesando mucho este mundillo, quieras cacharrear y probar, mirar cosas para tu site. En caso contrario, no te compliques.
 
-Para guiarte en el uso de la ranita, una de las personas que mejor conoce screaming frog es la consultora SEO Mj Cachon. Os dejo su guía en este enlace: [https://www.mjcachon.com/blog/configurar-screaming-frog/](https://www.google.com/url?q=https://www.mjcachon.com/blog/configurar-screaming-frog/&sa=D&ust=1571400723317000)
+Para guiarte en el uso de la ranita, una de las personas que mejor conoce screaming frog es la consultora SEO Mj Cachón. [Aquí](https://www.mjcachon.com/blog/configurar-screaming-frog/) tenéis su guía.
