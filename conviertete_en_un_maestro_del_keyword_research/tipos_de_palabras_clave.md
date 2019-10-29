@@ -4,7 +4,7 @@ Existen tres tipos de palabras clave:
 
 * **general o de keyword exacta**: mayor volumen de búsqueda y mayor competencia
   * ejemplo: belleza.
-* **LSI**: formada por 2-3 palabras clave. Volumen de búsqueda menor que general pero aún amplio y competencia menor, aunque todavía complicado.
+* **[LSI (Latent Semantic Indexing)](https://www.ondho.com/lsi-que-es-como-mejora-contenidos/)**: formada por 2-3 palabras clave. Volumen de búsqueda menor que general pero aún amplio y competencia menor, aunque todavía complicado.
   * ejemplo: mascarilla de belleza.
 * **Long tail**: más de cuatro palabras. Volumen de búsqueda bajo y competencia más baja. Aquí triunfa el dicho de “muchos poquitos hacen un muchito”
   * ejemplo: mascarilla de belleza para pelo loreal.

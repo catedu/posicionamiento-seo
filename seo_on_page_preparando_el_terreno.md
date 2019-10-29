@@ -96,7 +96,7 @@ Sobre todo, cómo vamos a ver en el punto de “sé un estratega y posiciona con
 
 ¡Ojo! esto para blogs que parten de cero. Si tu blog ya tiene recorrido, habría que hacer una auditoría breve para que no aparecieran errores 404\.
 
-En el caso de que ya tengas numerosos artículos escritos, quédate solo con la parte de seo yoast que explico en la [parte de contenidos](se_un_estratega_y_posiciona_con_tus_contenidos.md).
+En el caso de que ya tengas numerosos artículos escritos, quédate solo con la parte de seo yoast que explico en la [parte de contenidos](se_un_estratega_y_posiciona_con_tus_contenidos/README.md).
 
 ### Errores 404 {#errores-404}
 
