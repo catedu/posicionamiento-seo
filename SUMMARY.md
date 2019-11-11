@@ -40,12 +40,10 @@
   * [Factores SEO:](seo_para_youtube/factores_seo.md)
   * [Recursos audiovisuales: ](seo_para_youtube/recursos_audiovisuales.md)
 
-<!--
 ### Extra
 * [Plugins y extensiones básicas](plugins_y_extensiones_basicas.md)
 * [Mi recomendación - conclusión](mi_recomendacion_-_conclusion.md)
 * [MI PRESENTACIÓN](mi_presentacion.md)
--->
 
 ### Información
 * [Créditos](creditos.md)
