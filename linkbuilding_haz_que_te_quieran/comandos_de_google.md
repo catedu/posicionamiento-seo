@@ -1,5 +1,7 @@
 # Comandos de Google
 
+Comandos de google para encontrar foros, blogs, directorios...de la misma temática (continuamos con el ejemplo de docenciaconpaciencia.com y su artículo de “beneficios de la robótica educativa”).
+
 * [comando “inurl”](#inurl)
 * [comando “inurl + filetype”](#inurl-filetype)
 * [comando “intitle”](#intitle)
@@ -9,8 +11,6 @@
 * [comando comillas “palabra clave” inurl:foro OR intitle:foro](#comillas-clave-inurl)
 * [keyword “articulo invitado”, “autor invitado”, “post invitado”, “enviar articulo”, “colabora con nosotros”, etc.](#articulo-invitado)
 * [comando negación “-”](#comando-negacion)
-
-Comandos de google para encontrar foros, blogs, directorios...de la misma temática (continuamos con el ejemplo de docenciaconpaciencia.com y su artículo de “beneficios de la robótica educativa”.
 
 #### Comando “inurl”: obtienes resultados que contienen esa palabra clave en su url {#inurl}
 

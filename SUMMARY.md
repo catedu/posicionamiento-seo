@@ -31,7 +31,7 @@
   * [Errores que debemos evitar: ](linkbuilding_haz_que_te_quieran/errores_que_debemos_evitar.md)
   * [Tipos de anchor text con los que se puede enlazar: debe haber variedad y ser naturales](linkbuilding_haz_que_te_quieran/tipos_de_anchor_text_con_los_que_se_puede_enlazar_.md)
   * [Técnicas de obtención de enlaces: ](linkbuilding_haz_que_te_quieran/tecnicas_de_obtencion_de_enlaces.md)
-  * [Comandos de google para encontrar foros, blogs, directorios...de la misma temática (continuamos con el ejemplo de docenciaconpaciencia.com y su artículo de “beneficios de la robótica educativa”) ](linkbuilding_haz_que_te_quieran/comandos_de_google_para_encontrar_foros,_blogs,_di.md)
+  * [Comandos de google para encontrar foros, blogs, directorios...de la misma temática](linkbuilding_haz_que_te_quieran/comandos_de_google.md)
   * [Google Analytics y Google Search Console: dos herramientas gratuitas y muy potentes](google_analytics_y_google_search_console_dos_herra.md)
 
 ### 5. Youtube-SEO
@@ -40,10 +40,12 @@
   * [Factores SEO:](seo_para_youtube/factores_seo.md)
   * [Recursos audiovisuales: ](seo_para_youtube/recursos_audiovisuales.md)
 
+<!--
 ### Extra
 * [Plugins y extensiones básicas](plugins_y_extensiones_basicas.md)
 * [Mi recomendación - conclusión](mi_recomendacion_-_conclusion.md)
 * [MI PRESENTACIÓN](mi_presentacion.md)
+-->
 
 ### Información
 * [Créditos](creditos.md)
