@@ -54,12 +54,10 @@ Con esta dinámica de grupo consigues que el 80%.… - no hay que abusar, pero e
 * La extensión máxima es de 5000 caracteres para la descripción completa. Asegúrate de que el extracto se lee correctamente, incluye la palabra clave y es atractivo para que el usuario quiera seguir leyendo o viendo el vídeo.  
 * Extensión: una descripción corta puede posicionar, pero siempre que puedas aprovéchala mejor para reforzar las keywords (sin caer en la sobreoptimización. Cuando la leas tiene que ser natural)
 * Si el vídeo es muy largo, siempre que puedas divídelo en minutajes:
-  * ejemplo: vídeo de dinámicas de grupo
-
-en descripción poner:
-* 2’32  introducción a las dinámicas
-* 3’22 crear grupos para las dinámicas
-* 5’15 listado de dinámicas para primaria
+  * ejemplo: vídeo de dinámicas de grupo. En descripción poner:
+    * 2’32  introducción a las dinámicas
+    * 3’22 crear grupos para las dinámicas
+    * 5’15 listado de dinámicas para primaria
 
 Esta práctica mejora la usabilidad con el usuario
 * ¡hashtags! #Keyword . Convierte la palabra o palabras clave en un hashtag. Prácticamente nadie lo hace y funciona
