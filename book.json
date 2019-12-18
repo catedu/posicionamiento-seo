@@ -1,1 +1,43 @@
-{"plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "ga"], "language": "es", "variables": {"title": "Posicionamiento SEO", "author": "Roc\u00edo Garc\u00eda Algora", "collaborators": [{"name": "_________", "edited": "_____________"}]}, "pluginsConfig": {"image-captions": {"caption": "Imagen - _CAPTION_"}, "localized-footer": {"hline": true, "filename": "./FOOTER.md"}, "edit-link": {"base": "https://github.com/catedu/posicionamiento-seo/edit/master/", "label": "Edita esta p\u00e1gina"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "posicionamiento-seo"}, "ga": {"token": "UA-135691041-2"}}}
+{
+    "plugins": [
+        "youtube",
+        "accordion",
+        "image-captions",
+        "styled-blockquotes",
+        "localized-footer",
+        "edit-link",
+        "githubcontributors",
+        "ga"
+    ],
+    "language": "es",
+    "variables": {
+        "title": "Posicionamiento SEO",
+        "author": "Rocío García Algora",
+        "collaborators": [
+            {
+                "name": "_________",
+                "edited": "_____________"
+            }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        },
+        "edit-link": {
+            "base": "https://github.com/catedu/posicionamiento-seo/edit/master/",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "posicionamiento-seo"
+        },
+        "ga": {
+            "token": "UA-135691041-2"
+        }
+    }
+}
